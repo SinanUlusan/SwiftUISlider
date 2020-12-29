@@ -15,3 +15,16 @@ struct SwiftUISliderApp: App {
         }
     }
 }
+
+/*
+HStack {
+    Image(systemName: "speaker.fill")
+        .foregroundColor(.gray)
+   
+        .padding(15)
+        .accentColor(.red)
+        .padding(.horizontal)
+    Image(systemName: "speaker.3.fill")
+        .foregroundColor(.gray)
+}
+*/
